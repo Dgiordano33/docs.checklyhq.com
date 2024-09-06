@@ -1,5 +1,5 @@
 ---
-title: Setting up Puppeteer or Playwright locally
+title: Setting up Playwright locally
 date: 2020-06-20
 author: Giovanni Rago
 githubUser: ragog
